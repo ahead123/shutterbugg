@@ -1,0 +1,78 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+
+.main {
+	background-image: url('http://goo.gl/lMFR6x');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 700px;
+	padding-top: 100px;
+	font-family: 'Helvetica Neue Thin', 'HelveticaNeue-Thin', 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+}
+
+.main h1 {
+	font-size: 70px;
+}
+
+.main a {
+	background-color: rgba(238,68,95,0.9);
+	border: 1px solid rgba(238,68,95,0.9);
+	color: #fff;
+	padding: 10px 20px;
+}
+
+.main a:hover {
+	background-color: #fff;
+	border: 1px solid rgba(238,68,95,0.9);
+	color: rgba(238,68,95,0.9);
+	padding: 10px 20px;
+}
+
+.section {
+	font-family: 'Helvetica Neue Thin', 'HelveticaNeue-Thin', 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+	padding: 20px 0;
+}
+
+.section h1 {
+	font-size: 60px;
+	font-weight: 300;
+}
+
+.section h2 {
+	font-size: 40px;
+	font-weight: 300;
+}
+
+.section p {
+	font-size: 30px;
+}
+
+img {
+	margin-bottom: 30px;
+}
+
+.footer {
+	background-color: #f3f3f3;
+	padding: 80px 0;
+}
+
+.footer a {
+	color: #999;
+	font-weight: 300;
+}
+
+.footer a:hover {
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
